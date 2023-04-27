@@ -2,7 +2,7 @@ import React from "react";
 import ReactDom from 'react-dom';
 import FirstComponent from "./FirstComponent";
 
-//by NibblesTuffy
+//by NibblesTuffy-v1
 function Hello() {
     return <>
         <h1>Hello react</h1>
